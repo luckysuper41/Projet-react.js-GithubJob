@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Projet-react.js-GithubJob/static/css/main.21e45724.chunk.css",
+    "main.js": "/Projet-react.js-GithubJob/static/js/main.bde743c8.chunk.js",
+    "main.js.map": "/Projet-react.js-GithubJob/static/js/main.bde743c8.chunk.js.map",
+    "runtime-main.js": "/Projet-react.js-GithubJob/static/js/runtime-main.5ed7a10d.js",
+    "runtime-main.js.map": "/Projet-react.js-GithubJob/static/js/runtime-main.5ed7a10d.js.map",
+    "static/js/2.c839f931.chunk.js": "/Projet-react.js-GithubJob/static/js/2.c839f931.chunk.js",
+    "static/js/2.c839f931.chunk.js.map": "/Projet-react.js-GithubJob/static/js/2.c839f931.chunk.js.map",
+    "index.html": "/Projet-react.js-GithubJob/index.html",
+    "precache-manifest.93e1bc4d40d749a3e2e24714e9f131b3.js": "/Projet-react.js-GithubJob/precache-manifest.93e1bc4d40d749a3e2e24714e9f131b3.js",
+    "service-worker.js": "/Projet-react.js-GithubJob/service-worker.js",
+    "static/css/main.21e45724.chunk.css.map": "/Projet-react.js-GithubJob/static/css/main.21e45724.chunk.css.map",
+    "static/js/2.c839f931.chunk.js.LICENSE.txt": "/Projet-react.js-GithubJob/static/js/2.c839f931.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ed7a10d.js",
+    "static/js/2.c839f931.chunk.js",
+    "static/css/main.21e45724.chunk.css",
+    "static/js/main.bde743c8.chunk.js"
+  ]
+}
